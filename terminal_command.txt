@@ -1,0 +1,1 @@
+sudo apt install freeglut3 freeglut3-dev libfreetype6 libfreetype6-dev libxrandr2 libxrandr-dev libxinerama1 libxinerama1-dbg libxinerama-dev libxcursor1 libxcursor-dev
